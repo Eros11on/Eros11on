@@ -17,7 +17,7 @@
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://www.docker.com" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png" alt="Docker" width="40" height="40"/> </a>
-<a href="https://kubernates.io/" target="_blank"> <img src="https://d1.awsstatic.com/PAC/kuberneteslogo.eabc6359f48c8e30b7a138c18177f3fd39338e05.png" alt="k8s" width="40" height="40"/> </a>
+<a href="https://kubernates.io/" target="_blank"> <img src="https://d1.awsstatic.com/PAC/kuberneteslogo.eabc6359f48c8e30b7a138c18177f3fd39338e05.png" alt="k8s" width="90" height="40"/> </a>
     </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
