@@ -25,6 +25,6 @@
 - 🏫 I'm currently studying in The University of Texas at Austin
 - :hourglass_flowing_sand:  Looking for a Software Engineer internship
 - :rocket: Focus on Python, Java, Javascript, Docker, Kubernates
-- :man_technologist: Former Intern on Cloud DevOps and Data Science
+- :man_technologist: Former Intern about Cloud DevOps and Data Science
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Hobbies: Video Games, NBA, F1, Soccer<br>
