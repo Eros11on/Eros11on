@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there!<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Zheng(Jason) Zhong.</br>Master in Science of Information Studies.</br>Looking for a Software Engineer Internship  :computer:<br>
+  <br> I'm Zheng(Jason) Zhong.</br>Master in Science of Information Studies.</br>Seeking a Software Engineer Internship  :computer:<br>
   <br>
     <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" />
  </abc>
