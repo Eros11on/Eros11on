@@ -18,6 +18,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://www.docker.com" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/> </a>
 <a href="https://kubernates.io/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRStwZ0W2StUsVG6Oe81ef6Twk89UwWWRHeWLjluGlJ5Fl8FjpwyrE0cphumhwjW6fA0QU&usqp=CAU" alt="k8s" width="40" height="40"/> </a>
+ <a href="https://aws.amazon.com/cdk/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="33"/> </a>
     </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
