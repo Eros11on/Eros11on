@@ -8,6 +8,7 @@
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="C++" width="33" height="37"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40" height="40"/> </a>
     <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/java-logo.png" alt="Java" width="55" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -25,7 +26,7 @@
 
 - 🏫 I'm currently studying in The University of Texas at Austin
 - :hourglass_flowing_sand:  Aspiring  Software Developer
-- :rocket: Focus on Python, Java, Javascript, Docker, Kubernates
+- :rocket: Focus on C++, Python, Java, Javascript, Docker, Kubernates
 - :man_technologist: Experience in Software Development,Cloud DevOps and Data Science
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Hobbies: Video Games, NBA, F1, Soccer<br>
