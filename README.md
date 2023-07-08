@@ -27,6 +27,6 @@
 - 🏫 I'm currently studying in The University of Texas at Austin
 - :hourglass_flowing_sand:  Aspiring  Software Developer
 - :rocket: Focus on C++, Python, Java, Javascript, Docker, Kubernates
-- :man_technologist: Experience in Software Development,Cloud Computing and Data Science
+- :man_technologist: Experience in Software Development, Cloud Computing and Data Science
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Hobbies: Video Games, NBA, F1, Soccer<br>
