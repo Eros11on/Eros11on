@@ -1,7 +1,6 @@
 <h2 align="left">
  <abc>
   <br>Hi there!<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Zheng Zhong.</br>M.S. in Information Studies.</br>
   <br>
     <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" />
  </abc>
@@ -10,7 +9,7 @@
 <p align="left">
     <a href="https://isocpp.org/" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="C++" width="33" height="34"/> </a>
     <a href="https://isocpp.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="C#" width="33" height="34"/> </a> 
-    <a href="https://www.python.org/" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/super+tiny+icons+python-1324450764865983278.png" alt="Python" width="40" height="39"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png" alt="Python" width="40" height="30"/> </a>
     <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/java-logo.png" alt="Java" width="60" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -25,7 +24,6 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🏫 I'm currently studying in The University of Texas at Austin
 - :hourglass_flowing_sand:  Aspiring  Software Engineer
 - :rocket: Focus on C++, C#, Python, Java, Javascript, Docker, Kubernates
 - :man_technologist: Experience in Software Development, Cloud Computing and Data Science
